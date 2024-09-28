@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.logo {
+  color: #0d6efd;
+}
+
+.footer-text {
+  color: white;
+}
+
+.hero-img {
+  border-radius: 5px;
+}
+
+.hero-p-text {
+  font-size: 20px;
+}
+
+.hero-h1-text {
+  color: white;
+}
+
+.functions-h2 {
+  border-bottom: 3px solid;
+}
